@@ -1,0 +1,8 @@
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\bin\Debug\netstandard2.0\SamuraiEFCore.Domain.deps.json
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\bin\Debug\netstandard2.0\SamuraiEFCore.Domain.dll
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\bin\Debug\netstandard2.0\SamuraiEFCore.Domain.pdb
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\obj\Debug\netstandard2.0\SamuraiEFCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\obj\Debug\netstandard2.0\SamuraiEFCore.Domain.AssemblyInfoInputs.cache
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\obj\Debug\netstandard2.0\SamuraiEFCore.Domain.AssemblyInfo.cs
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\obj\Debug\netstandard2.0\SamuraiEFCore.Domain.dll
+C:\Users\franc\Documents\Desarrollo\GitRepo\EFCore\SamuraiEFCore\SamuraiEFCore.Domain\obj\Debug\netstandard2.0\SamuraiEFCore.Domain.pdb
